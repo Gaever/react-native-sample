@@ -1,0 +1,15 @@
+{
+  "features": {
+    "signIn": [
+      "email",
+      "sms"
+    ],
+    "currencyPicker": false,
+    "payment": {
+      "bankCard": true,
+      "sbp": false
+    },
+    "simpleTariffPromo": true,
+    "simpleAddTop": true
+  }
+}
